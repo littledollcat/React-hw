@@ -7,7 +7,7 @@ import DoubleRoom from '../images/DoubleRoom.jpg'
 import singleRoom from '../images/singleRoom.jpeg'
 import TwinRoom from '../images/TwinRoom.jpg'
 
-export default function Rooms({ }) {
+export default function Rooms() {
     return (
             <div className="rooms" >
                 <div style={{width:'30%', textAlign: 'end', alignSelf: 'center'}}>
@@ -21,24 +21,24 @@ export default function Rooms({ }) {
                             <div className="image_text">DeluxeDoubleRoom</div>
                         </div>
                         <div className="image">
-                            <img src={DeluxeSingleRoom} />
+                            <img src={DeluxeSingleRoom} alt="DeluxeSingleRoom"/>
                             <div className="image_text">DeluxeSingleRoom</div>
                         </div>
                         <div className="image">
-                            <img src={DeluxeTwinRoom} />
+                            <img src={DeluxeTwinRoom} alt="DeluxeTwinRoom"/>
                             <div className="image_text">DeluxeTwinRoom</div>
                         </div>
                     
                         <div className="image">
-                            <img src={DoubleRoom} />
+                            <img src={DoubleRoom} alt="DoubleRoom" />
                             <div className="image_text">DoubleRoom</div>
                         </div>
                         <div className="image">
-                            <img src={singleRoom} />
+                            <img src={singleRoom} alt="singleRoom" />
                             <div className="image_text">singleRoom</div>
                         </div>
                         <div className="image">
-                            <img src={TwinRoom} />
+                            <img src={TwinRoom} alt="TwinRoom" />
                             <div className="image_text">TwinRoom</div>
                         </div>
                     

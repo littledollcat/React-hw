@@ -6,7 +6,7 @@ export default function Section({ id }) {
     <div>
       <div className="section-content" id={id}>
         <div style={{width: '50%'}}>
-          <img src={aboutus} style={{height: '100%', }}/>
+          <img src={aboutus} style={{height: '100%', }} alt="about us"/>
         </div>
         <div style={{padding:'100px', alignSelf: 'center'}}>
           <h1>About Us</h1>

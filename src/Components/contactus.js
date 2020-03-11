@@ -1,10 +1,10 @@
 import React from "react";
 import contact_us from "../images/contact_us.jpg"
 
-export default function Rooms({ }) {
+export default function contact() {
     return (
         <div className="contact">
-            <div ><img src={contact_us} /></div>
+            <div ><img src={contact_us}  alt="contact us" /></div>
             <div className="contact_input" style={{ textAlign: 'center', paddingTop:'100px'}}>
                 <div>Contact Us</div>
                 <form>
