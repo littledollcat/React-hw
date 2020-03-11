@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/littledollcat/React-hw/static/css/main.1562cd63.chunk.css",
-    "main.js": "/littledollcat/React-hw/static/js/main.e435450b.chunk.js",
-    "main.js.map": "/littledollcat/React-hw/static/js/main.e435450b.chunk.js.map",
+    "main.js": "/littledollcat/React-hw/static/js/main.d67dfb6f.chunk.js",
+    "main.js.map": "/littledollcat/React-hw/static/js/main.d67dfb6f.chunk.js.map",
     "runtime-main.js": "/littledollcat/React-hw/static/js/runtime-main.385c1cd0.js",
     "runtime-main.js.map": "/littledollcat/React-hw/static/js/runtime-main.385c1cd0.js.map",
     "static/css/2.0161871a.chunk.css": "/littledollcat/React-hw/static/css/2.0161871a.chunk.css",
-    "static/js/2.651b8a90.chunk.js": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js",
-    "static/js/2.651b8a90.chunk.js.map": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js.map",
+    "static/js/2.164fa5a1.chunk.js": "/littledollcat/React-hw/static/js/2.164fa5a1.chunk.js",
+    "static/js/2.164fa5a1.chunk.js.map": "/littledollcat/React-hw/static/js/2.164fa5a1.chunk.js.map",
     "index.html": "/littledollcat/React-hw/index.html",
-    "precache-manifest.cdbfdc0f080e1f87c371d32937f43f5c.js": "/littledollcat/React-hw/precache-manifest.cdbfdc0f080e1f87c371d32937f43f5c.js",
+    "precache-manifest.869422c3a36e9b78f4e568f340b495ec.js": "/littledollcat/React-hw/precache-manifest.869422c3a36e9b78f4e568f340b495ec.js",
     "service-worker.js": "/littledollcat/React-hw/service-worker.js",
     "static/css/2.0161871a.chunk.css.map": "/littledollcat/React-hw/static/css/2.0161871a.chunk.css.map",
     "static/css/main.1562cd63.chunk.css.map": "/littledollcat/React-hw/static/css/main.1562cd63.chunk.css.map",
-    "static/js/2.651b8a90.chunk.js.LICENSE.txt": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js.LICENSE.txt",
+    "static/js/2.164fa5a1.chunk.js.LICENSE.txt": "/littledollcat/React-hw/static/js/2.164fa5a1.chunk.js.LICENSE.txt",
     "static/media/DeluxeDoubleRoom.jpg": "/littledollcat/React-hw/static/media/DeluxeDoubleRoom.1780d968.jpg",
     "static/media/DeluxeSingleRoom.jpg": "/littledollcat/React-hw/static/media/DeluxeSingleRoom.5104b35e.jpg",
     "static/media/DeluxeTwinRoom.jpg": "/littledollcat/React-hw/static/media/DeluxeTwinRoom.3d6de642.jpg",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.385c1cd0.js",
     "static/css/2.0161871a.chunk.css",
-    "static/js/2.651b8a90.chunk.js",
+    "static/js/2.164fa5a1.chunk.js",
     "static/css/main.1562cd63.chunk.css",
-    "static/js/main.e435450b.chunk.js"
+    "static/js/main.d67dfb6f.chunk.js"
   ]
 }

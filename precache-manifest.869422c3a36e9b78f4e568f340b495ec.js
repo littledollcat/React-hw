@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4c7a0871ed6fe97428d3a4ee3edda00",
+    "revision": "c42ef2dda3ddf1b8b09e1ac85c3382de",
     "url": "/littledollcat/React-hw/index.html"
   },
   {
-    "revision": "940ba7d9fcd860430761",
+    "revision": "290b74274eb7ed6f6303",
     "url": "/littledollcat/React-hw/static/css/2.0161871a.chunk.css"
   },
   {
-    "revision": "f7aaa230ed88fdb336cc",
+    "revision": "062c5c4e58e360900434",
     "url": "/littledollcat/React-hw/static/css/main.1562cd63.chunk.css"
   },
   {
-    "revision": "940ba7d9fcd860430761",
-    "url": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js"
+    "revision": "290b74274eb7ed6f6303",
+    "url": "/littledollcat/React-hw/static/js/2.164fa5a1.chunk.js"
   },
   {
     "revision": "11a928b57aca5049fe950bf8bcde77c5",
-    "url": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js.LICENSE.txt"
+    "url": "/littledollcat/React-hw/static/js/2.164fa5a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7aaa230ed88fdb336cc",
-    "url": "/littledollcat/React-hw/static/js/main.e435450b.chunk.js"
+    "revision": "062c5c4e58e360900434",
+    "url": "/littledollcat/React-hw/static/js/main.d67dfb6f.chunk.js"
   },
   {
     "revision": "15c3abb40b9dcce2cc1d",
