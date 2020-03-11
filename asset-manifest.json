@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/littledollcat/React-hw/static/css/main.1562cd63.chunk.css",
-    "main.js": "/littledollcat/React-hw/static/js/main.d67dfb6f.chunk.js",
-    "main.js.map": "/littledollcat/React-hw/static/js/main.d67dfb6f.chunk.js.map",
+    "main.js": "/littledollcat/React-hw/static/js/main.442a20ee.chunk.js",
+    "main.js.map": "/littledollcat/React-hw/static/js/main.442a20ee.chunk.js.map",
     "runtime-main.js": "/littledollcat/React-hw/static/js/runtime-main.385c1cd0.js",
     "runtime-main.js.map": "/littledollcat/React-hw/static/js/runtime-main.385c1cd0.js.map",
     "static/css/2.0161871a.chunk.css": "/littledollcat/React-hw/static/css/2.0161871a.chunk.css",
     "static/js/2.164fa5a1.chunk.js": "/littledollcat/React-hw/static/js/2.164fa5a1.chunk.js",
     "static/js/2.164fa5a1.chunk.js.map": "/littledollcat/React-hw/static/js/2.164fa5a1.chunk.js.map",
     "index.html": "/littledollcat/React-hw/index.html",
-    "precache-manifest.72fd90a0fc1327ff608f477d1024c26e.js": "/littledollcat/React-hw/precache-manifest.72fd90a0fc1327ff608f477d1024c26e.js",
+    "precache-manifest.f6bc2a8ad671bf5156f21ecfc655c1ee.js": "/littledollcat/React-hw/precache-manifest.f6bc2a8ad671bf5156f21ecfc655c1ee.js",
     "service-worker.js": "/littledollcat/React-hw/service-worker.js",
     "static/css/2.0161871a.chunk.css.map": "/littledollcat/React-hw/static/css/2.0161871a.chunk.css.map",
     "static/css/main.1562cd63.chunk.css.map": "/littledollcat/React-hw/static/css/main.1562cd63.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.0161871a.chunk.css",
     "static/js/2.164fa5a1.chunk.js",
     "static/css/main.1562cd63.chunk.css",
-    "static/js/main.d67dfb6f.chunk.js"
+    "static/js/main.442a20ee.chunk.js"
   ]
 }
