@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/littledollcat/React-hw/static/css/main.1562cd63.chunk.css",
+    "main.js": "/littledollcat/React-hw/static/js/main.d40a0603.chunk.js",
+    "main.js.map": "/littledollcat/React-hw/static/js/main.d40a0603.chunk.js.map",
+    "runtime-main.js": "/littledollcat/React-hw/static/js/runtime-main.385c1cd0.js",
+    "runtime-main.js.map": "/littledollcat/React-hw/static/js/runtime-main.385c1cd0.js.map",
+    "static/css/2.0161871a.chunk.css": "/littledollcat/React-hw/static/css/2.0161871a.chunk.css",
+    "static/js/2.651b8a90.chunk.js": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js",
+    "static/js/2.651b8a90.chunk.js.map": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js.map",
+    "index.html": "/littledollcat/React-hw/index.html",
+    "precache-manifest.a44c7f59718b02b666142029d816831f.js": "/littledollcat/React-hw/precache-manifest.a44c7f59718b02b666142029d816831f.js",
+    "service-worker.js": "/littledollcat/React-hw/service-worker.js",
+    "static/css/2.0161871a.chunk.css.map": "/littledollcat/React-hw/static/css/2.0161871a.chunk.css.map",
+    "static/css/main.1562cd63.chunk.css.map": "/littledollcat/React-hw/static/css/main.1562cd63.chunk.css.map",
+    "static/js/2.651b8a90.chunk.js.LICENSE.txt": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js.LICENSE.txt",
+    "static/media/DeluxeDoubleRoom.jpg": "/littledollcat/React-hw/static/media/DeluxeDoubleRoom.1780d968.jpg",
+    "static/media/DeluxeSingleRoom.jpg": "/littledollcat/React-hw/static/media/DeluxeSingleRoom.5104b35e.jpg",
+    "static/media/DeluxeTwinRoom.jpg": "/littledollcat/React-hw/static/media/DeluxeTwinRoom.3d6de642.jpg",
+    "static/media/DoubleRoom.jpg": "/littledollcat/React-hw/static/media/DoubleRoom.b5a3333f.jpg",
+    "static/media/TwinRoom.jpg": "/littledollcat/React-hw/static/media/TwinRoom.9989d47b.jpg",
+    "static/media/aboutus.jpg": "/littledollcat/React-hw/static/media/aboutus.a3fd7961.jpg",
+    "static/media/contact_us.jpg": "/littledollcat/React-hw/static/media/contact_us.0d977db6.jpg",
+    "static/media/logo.svg": "/littledollcat/React-hw/static/media/logo.5d5d9eef.svg",
+    "static/media/mainpage.jpg": "/littledollcat/React-hw/static/media/mainpage.f318d407.jpg",
+    "static/media/singleRoom.jpeg": "/littledollcat/React-hw/static/media/singleRoom.56d0cf03.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.385c1cd0.js",
+    "static/css/2.0161871a.chunk.css",
+    "static/js/2.651b8a90.chunk.js",
+    "static/css/main.1562cd63.chunk.css",
+    "static/js/main.d40a0603.chunk.js"
+  ]
+}
