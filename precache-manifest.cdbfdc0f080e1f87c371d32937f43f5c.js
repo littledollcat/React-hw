@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "622091a42492126ef8dd00852a2d457b",
+    "revision": "f4c7a0871ed6fe97428d3a4ee3edda00",
     "url": "/littledollcat/React-hw/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/littledollcat/React-hw/static/css/2.0161871a.chunk.css"
   },
   {
-    "revision": "b913ac0eb15c646649ba",
+    "revision": "f7aaa230ed88fdb336cc",
     "url": "/littledollcat/React-hw/static/css/main.1562cd63.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/littledollcat/React-hw/static/js/2.651b8a90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b913ac0eb15c646649ba",
-    "url": "/littledollcat/React-hw/static/js/main.d40a0603.chunk.js"
+    "revision": "f7aaa230ed88fdb336cc",
+    "url": "/littledollcat/React-hw/static/js/main.e435450b.chunk.js"
   },
   {
     "revision": "15c3abb40b9dcce2cc1d",
